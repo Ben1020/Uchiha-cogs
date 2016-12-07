@@ -1,7 +1,5 @@
-# Ben-Cogs
-# Ben-Cogs
 # Uchiha-cogs
-# Uchiha-cogs
-# Uchiha-cogs
-# Uchiha-cogs
-# Uchiha-cogs
+
+Cogs for Red - Discord Bot
+
+
